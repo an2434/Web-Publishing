@@ -1,0 +1,87 @@
+@charset "utf-8";
+div {
+  width: 1920px;
+  height: 1080px;
+  flex-grow: 0;
+  background-color: rgb(255, 255, 255);
+}
+ .Line-3{
+
+
+position: absolute;
+width: 496px;
+height: 0px;
+left: 238px;
+top: 458px;
+
+border: 1px solid #3F3D56;
+ }
+
+ span {
+ /* 로고 */
+
+
+position: absolute;
+width: 89px;
+height: 60px;
+left: 440px;
+top: 371px;
+
+font-family: Spoqa Han Sans Neo;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}
+
+
+
+
+
+img.Group-45 {
+  position: absolute;
+width: 318px;
+height: 125px;
+left: 327px;
+top: 511px;
+}
+.Rectangle-1 {
+  /* Rectangle 1 */
+
+
+position: absolute;
+width: 570px;
+height: 1080px;
+left: 960px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 15px 0px 15px rgba(142, 142, 142, 0.23), -15px 0px 15px rgba(142, 142, 142, 0.23);
+  }
+
+  .undraw_Gardening_eaf3-1-1 {
+   
+position: absolute;
+width: 146px;
+height: 156px;
+left: 5px;
+top: 800px;
+
+background: url('undraw_Gardening_eaf3 (1) 1.png');
+transform: matrix(-1, 0, 0, 1, 0, 0);
+  }
+  .undraw_Gardening_eaf3-1-2 {
+    position: absolute;
+    width: 175px;
+    height: 137px;
+    left: 785px;
+    top: 810px;
+    
+    background: url('undraw_Gardening_eaf3 (1).png');
+  }
