@@ -169,3 +169,44 @@ line-height: 18px;
 color: #DEDEDE;
 z-index:2;
 }
+.Rectangle-18 {
+position: absolute;
+width: 437px;
+height: 23px;
+left: 1022px;
+top: 186px;
+
+background: rgba(172, 167, 255, 0.84);
+border-radius: 2222px;
+z-index:3;
+}
+.Rectangle-19 {
+position: absolute;
+width: 176px;
+height: 23px;
+left: 1022px;
+top: 186px;
+
+background: rgba(255, 255, 255, 0.7);
+border-radius: 2222px;
+z-index:4;
+}
+
+  .span2{
+    position: absolute;
+    width: 52px;
+    height: 15px;
+    left: 1038px;
+    top: 190px;
+    
+    font-family: Spoqa Han Sans Neo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.7);
+z-index:5;
+  }
