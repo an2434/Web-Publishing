@@ -1,15 +1,44 @@
 @charset "utf-8";
 
 /*더모먼트 png*/
-div {
+Div {
   width: 1920px;
   height: 1080px;
   flex-grow: 0;
   background-color: rgb(255, 255, 255);
 }
 
+.Filter
+{
+  
+  position: absolute;
+width: 43px;
+height: 32px;
+left: 1012px;
+top: 54px;
 
-span {
+ 
+}
+.Phone-Logo{
+ 
+position: absolute;
+width: 89px;
+height: 60px;
+left: 1198px;
+top: 0px;
+
+font-family: Spoqa Han Sans Neo;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 60px;
+z-index: 5;
+/* identical to box height */
+
+
+color: #000000;
+}
+.Back-Logo {
   /* 로고 */
 
 
@@ -32,7 +61,7 @@ span {
 
 
 /*undraw img*/
-img.Group-45 {
+Img.Group-45 {
   position: absolute;
   width: 318px;
   height: 125px;
@@ -54,7 +83,7 @@ img.Group-45 {
   box-shadow: 15px 0px 15px rgba(142, 142, 142, 0.23), -15px 0px 15px rgba(142, 142, 142, 0.23);
 }
 
-.undraw_Gardening_eaf3-1-1 {
+.Undraw_Gardening_eaf3-1-1 {
 
   position: absolute;
   width: 146px;
@@ -68,7 +97,7 @@ img.Group-45 {
 
 }
 
-.undraw_Gardening_eaf3-1-2 {
+.Undraw_Gardening_eaf3-1-2 {
   position: absolute;
   width: 175px;
   height: 137px;
@@ -230,7 +259,7 @@ border-radius: 20px;
   z-index: 4;
 }
 
-.span2 {
+.Time-Remaining1 {
   position: absolute;
   width: 52px;
   height: 15px;
@@ -309,7 +338,7 @@ border-radius: 20px;
   z-index: 4;
 }
 
-.span3 {
+.Time-Remaining2 {
   position: absolute;
   width: 59px;
   height: 15px;
@@ -389,7 +418,7 @@ border-radius: 20px;
   z-index: 4;
 }
 
-.span4 {
+.Time-Remaining3 {
   position: absolute;
   width: 59px;
   height: 15px;
