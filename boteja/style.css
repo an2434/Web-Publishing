@@ -8,36 +8,37 @@ Div {
   background-color: rgb(255, 255, 255);
 }
 
-.Filter
-{
-  
+.Filter {
+
   position: absolute;
-width: 43px;
-height: 32px;
-left: 1012px;
-top: 54px;
+  width: 43px;
+  height: 32px;
+  left: 1012px;
+  top: 54px;
 
- 
+
 }
-.Phone-Logo{
- 
-position: absolute;
-width: 89px;
-height: 60px;
-left: 1198px;
-top: 0px;
 
-font-family: Spoqa Han Sans Neo;
-font-style: normal;
-font-weight: normal;
-font-size: 48px;
-line-height: 60px;
-z-index: 5;
-/* identical to box height */
+.Phone-Logo {
+
+  position: absolute;
+  width: 89px;
+  height: 60px;
+  left: 1198px;
+  top: 0px;
+
+  font-family: Spoqa Han Sans Neo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 60px;
+  z-index: 5;
+  /* identical to box height */
 
 
-color: #000000;
+  color: #000000;
 }
+
 .Back-Logo {
   /* 로고 */
 
@@ -150,18 +151,33 @@ Img.Group-45 {
   z-index: 2;
   border: 1px solid #FFFFFF;
 }
+
 .Line-7 {
   position: absolute;
-width: 170px;
-height: 0px;
-left: 1012px;
-top: 444.75px;
+  width: 170px;
+  height: 0px;
+  left: 1012px;
+  top: 444.75px;
 
-border: 1px solid #FFFFFF;
-z-index: 2;
+  border: 1px solid #FFFFFF;
+  z-index: 2;
 }
 
 /*투표 게시물*/
+
+
+.Rectangle-9 {
+
+  position: absolute;
+  width: 494px;
+  height: 135px;
+  left: 996px;
+  top: 247px;
+
+  background: #928CFF;
+  border-radius: 20px;
+}
+
 .Rectangle-10 {
 
   position: absolute;
@@ -176,26 +192,26 @@ z-index: 2;
   z-index: 1;
 }
 
-.Rectangle-9 {
-
+.Rectangle-11 {
   position: absolute;
   width: 494px;
   height: 135px;
   left: 996px;
-  top: 247px;
+  top: 408px;
 
-  background: #928CFF;
+  background: #746BFE;
   border-radius: 20px;
 }
-.Rectangle-11{
-position: absolute;
-width: 494px;
-height: 135px;
-left: 996px;
-top: 408px;
 
-background: #746BFE;
-border-radius: 20px;
+.Rectangle-12 {
+  position: absolute;
+  width: 494px;
+  height: 135px;
+  left: 996px;
+  top: 569px;
+
+  background: #4C42E2;
+  border-radius: 20px;
 }
 
 /* 제목*/
@@ -253,7 +269,7 @@ border-radius: 20px;
   height: 23px;
   left: 1022px;
   top: 186px;
-  
+
   background: rgba(255, 255, 255, 0.7);
   border-radius: 2222px;
   z-index: 4;
@@ -435,5 +451,84 @@ border-radius: 20px;
 
   color: rgba(0, 0, 0, 0.7);
 
+  z-index: 5;
+}
+
+.Voting-Title4 {
+  position: absolute;
+  width: 148px;
+  height: 23px;
+  left: 1024px;
+  top: 581px;
+
+  font-family: Spoqa Han Sans Neo;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+
+  /* identical to box height */
+
+
+  color: #FFFFFF;
+
+}
+
+.Contents4 {
+  position: absolute;
+width: 451px;
+height: 54px;
+left: 1019px;
+top: 615px;
+
+font-family: Spoqa Han Sans Neo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+
+color: #DEDEDE;
+}
+
+.Rectangle-24 {
+  position: absolute;
+  width: 437px;
+  height: 23px;
+  left: 1026px;
+  top: 669px;
+  
+  background: rgba(155, 149, 237, 0.84);
+  border-radius: 2222px;
+  z-index: 3;
+}
+
+.Rectangle-25 {
+  position: absolute;
+width: 288px;
+height: 23px;
+left: 1026px;
+top: 669px;
+
+background: #E2E1FA;
+border-radius: 2222px;
+  z-index: 4;
+}
+
+.Time-Remaining4 {
+  position: absolute;
+  width: 59px;
+  height: 15px;
+  left: 1042px;
+  top: 673px;
+  
+  font-family: Spoqa Han Sans Neo;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  
+  
+  color: rgba(0, 0, 0, 0.7);
   z-index: 5;
 }
