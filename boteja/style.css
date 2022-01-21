@@ -107,6 +107,15 @@ box-shadow: 15px 0px 15px rgba(142, 142, 142, 0.23), -15px 0px 15px rgba(142, 14
   z-index:2;
   border: 1px solid #FFFFFF;}
 
+.Line-6{
+  position: absolute;
+width: 170px;
+height: 0px;
+left: 1016px;
+top: 286.75px;
+z-index: 2;
+border: 1px solid #FFFFFF;
+}
 /*투표 게시물*/
 .Rectangle-10 {
   
@@ -212,65 +221,68 @@ z-index:5;
   }
 
   .Voting-Title2 {
+    position: absolute;
     width: 148px;
     height: 23px;
-    flex-grow: 0;
-    margin: 0 298px 3.8px 9px;
-    font-family: SpoqaHanSansNeo;
-    font-size: 18px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: left;
-    color: #fff;
-  }
-  .Contents2{
-    position: absolute;
-    width: 451px;
-    height: 54px;
-    left: 1015px;
-    top: 132px;
+    left: 1025px;
+    top: 259px;
     
     font-family: Spoqa Han Sans Neo;
     font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 18px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
     
-    color: #DEDEDE;
+    
+    color: #FFFFFF;
+  }
+  .Contents2{
+    position: absolute;
+width: 451px;
+height: 54px;
+left: 1020px;
+top: 293px;
+
+font-family: Spoqa Han Sans Neo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+
+color: #DEDEDE;
+
     z-index:2;
     }
     .Rectangle-20 {
-    position: absolute;
-    width: 437px;
-    height: 23px;
-    left: 1022px;
-    top: 186px;
-    
-    background: rgba(172, 167, 255, 0.84);
-    border-radius: 2222px;
-    z-index:3;
+      position: absolute;
+      width: 437px;
+      height: 23px;
+      left: 1027px;
+      top: 347px;
+      
+      background: rgba(255, 255, 255, 0.38);
+      border-radius: 2222px;
+      z-index:3;
     }
     .Rectangle-21 {
-    position: absolute;
-    width: 176px;
-    height: 23px;
-    left: 1022px;
-    top: 186px;
-    
-    background: rgba(255, 255, 255, 0.7);
-    border-radius: 2222px;
+      position: absolute;
+      width: 234px;
+      height: 23px;
+      left: 1027px;
+      top: 347px;
+      
+      background: rgba(255, 255, 255, 0.9);
+      border-radius: 2222px;
     z-index:4;
     }
     
       .span3{
         position: absolute;
-        width: 52px;
+        width: 59px;
         height: 15px;
-        left: 1038px;
-        top: 190px;
+        left: 1043px;
+        top: 351px;
         
         font-family: Spoqa Han Sans Neo;
         font-style: normal;
