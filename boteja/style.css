@@ -295,3 +295,79 @@ color: #DEDEDE;
         color: rgba(0, 0, 0, 0.7);
     z-index:5;
       }
+
+
+      .Voting-Title3 {
+        position: absolute;
+        width: 148px;
+        height: 23px;
+        left: 1021px;
+        top: 417px;
+        
+        font-family: Spoqa Han Sans Neo;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 23px;
+        /* identical to box height */
+        
+        
+        color: #FFFFFF;
+        
+      }
+      .Contents3{
+        position: absolute;
+        width: 451px;
+        height: 54px;
+        left: 1016px;
+        top: 451px;
+        
+        font-family: Spoqa Han Sans Neo;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 18px;
+    
+        z-index:2;
+        }
+        .Rectangle-20 {
+          position: absolute;
+          width: 437px;
+          height: 23px;
+          left: 1027px;
+          top: 347px;
+          
+          background: rgba(255, 255, 255, 0.38);
+          border-radius: 2222px;
+          z-index:3;
+        }
+        .Rectangle-21 {
+          position: absolute;
+          width: 234px;
+          height: 23px;
+          left: 1027px;
+          top: 347px;
+          
+          background: rgba(255, 255, 255, 0.9);
+          border-radius: 2222px;
+        z-index:4;
+        }
+        
+          .span3{
+            position: absolute;
+            width: 59px;
+            height: 15px;
+            left: 1043px;
+            top: 351px;
+            
+            font-family: Spoqa Han Sans Neo;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 12px;
+            line-height: 15px;
+            /* identical to box height */
+            
+            
+            color: rgba(0, 0, 0, 0.7);
+        z-index:5;
+          }
