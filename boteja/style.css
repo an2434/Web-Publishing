@@ -554,7 +554,7 @@ border-radius: 2222px;
   color: rgba(0, 0, 0, 0.7);
   z-index: 5;
 }
-.End-Voting-Title
+.End-Voting-Title1
 {
   position: absolute;
 width: 148px;
@@ -567,8 +567,36 @@ font-style: normal;
 font-weight: bold;
 font-size: 18px;
 line-height: 23px;
+z-index: 2;
 /* identical to box height */
 
 
 color: #C9C9C9;
 }
+.End-Contents1{
+  position: absolute;
+width: 451px;
+height: 54px;
+left: 1015px;
+top: 776px;
+
+font-family: Spoqa Han Sans Neo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+z-index: 2;
+color: rgba(222, 222, 222, 0.7);
+}
+.End-Rectangle1{
+
+  position: absolute;
+  width: 437px;
+  height: 23px;
+  left: 1022px;
+  top: 830px;
+  
+  background: rgba(203, 202, 202, 0.84);
+  border-radius: 2222px;
+}
+
