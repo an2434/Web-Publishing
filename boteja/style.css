@@ -226,7 +226,7 @@ z-index: 2;
   border-radius: 20px;
 }
 
-.End-Rectangle1 {
+.End-Rectangle-back1 {
   position: absolute;
   width: 494px;
   height: 135px;
@@ -598,5 +598,24 @@ color: rgba(222, 222, 222, 0.7);
   
   background: rgba(203, 202, 202, 0.84);
   border-radius: 2222px;
+  z-index: 1;
 }
 
+.End-Time-Remaining
+{
+  position: absolute;
+width: 84px;
+height: 15px;
+left: 1038px;
+top: 834px;
+
+font-family: Spoqa Han Sans Neo;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+z-index: 2;
+
+color: rgba(0, 0, 0, 0.7);
+}
