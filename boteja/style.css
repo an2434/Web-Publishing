@@ -8,6 +8,25 @@
   background-color: rgb(255, 255, 255);
 }
 */
+/*스마트폰 세로 */
+
+
+	
+ 
+.Phone-Logo { font-size: 12px; }
+ 
+@media (min-width: 640px) {
+  .Phone-Logo { font-size: 14px; }
+}
+ 
+@media (min-width: 768px) {
+  .Phone-Logo { font-size: 16px; }
+}
+ 
+@media (min-width: 1024px) {
+  .Phone-Logo{ font-size: 18px; }
+}
+
 
 .Filter {
 
