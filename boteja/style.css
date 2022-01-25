@@ -10,23 +10,56 @@
 */
 /*스마트폰 세로 */
 
+.Tap-bar-back{
+  position: absolute;
+width: 570px;
+height: 56px;
+left: 960px;
+top: 1028px;
+border-radius: 40px 40px 0 0;
+background: #3F3D56;
+  z-index: 2;
+ 
+}
+.Tap-bar-name{
+  position: absolute;
+width: 83px;
+height: 23px;
+left: 1207px;
+top: 1044px;
 
-	
- 
-.Phone-Logo { font-size: 12px; }
- 
-@media (min-width: 640px) {
-  .Phone-Logo { font-size: 14px; }
-}
- 
-@media (min-width: 768px) {
-  .Phone-Logo { font-size: 16px; }
-}
- 
-@media (min-width: 1024px) {
-  .Phone-Logo{ font-size: 18px; }
+font-family: Spoqa Han Sans Neo;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #C0C0C0;
+
+z-index: 3;
 }
 
+.Tap-bar-name2{
+position: absolute;
+width: 50px;
+height: 23px;
+left: 1418px;
+top: 1044px;
+
+font-family: Spoqa Han Sans Neo;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #C0C0C0;
+z-index: 3;
+}
+ 
 
 .Filter {
 
@@ -125,7 +158,7 @@ Img.Group-45 {
   left: 785px;
   top: 943px;
   
-  background: url('undraw_Gardening_eaf3 (1).png');
+  background: url("undraw_Gardening_eaf3 (1).png:");
 }
 .Undraw_Gardening_eaf3-1-3
 {
@@ -135,10 +168,40 @@ height: 275px;
 left: 1530px;
 top: 804px;
 
-background: url('undraw_mobile_user_7oqo.png');
+background: url("undraw_mobile_user_7oqo.png");
 }
 
+
+.Undraw_Gardening_eaf3-1-4 {
+/* qwewqe 2 */
+
+position: absolute;
+width: 100px;
+height: 103px;
+left: 960px;
+top: 980px;
+
+background: url(qwewqe.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+z-index: 3;
+
 /*선*/
+}
+
+.Undraw_Gardening_eaf3-1-5 {
+/* qwewqe 1 */
+
+
+position: absolute;
+width: 87px;
+height: 105px;
+left: 1443px;
+top: 975px;
+
+background: url(qwewqe.png);
+}
+
+
 .Line-1 {
   position: absolute;
   width: 469px;
