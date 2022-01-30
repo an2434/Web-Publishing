@@ -9,58 +9,7 @@
 }
 */
 
-/*메뉴 버튼 애니메이션 수정해야됨*/
-input[id = "menuicon"]{
-  display: none;
 
-}
-input[id = "menuicon"]+label
-{
-  display :block;
-  position: relative;
-  width: 30px;
-  height: 20px;
-  left: 1011px;
-  top: 20px;
-cursor :pointer;
-
-
-}
-
-input [id = "menuicon"]+label span
-{
-  display :block;
-  position: absolute;
-  width: 30px;
-  height: 10px;
-  left: 1041px;
-  top: 24px;
-  
-  border: 2px solid #5C52FE;
-  transform: all .35s;
-  z-index: 1;
-  
-  /* Ellipse 61 */
-  
-  
-  position: absolute;
-  width: 10px;
-  height: 10px;
-  left: 1013px;
-  top: 20px;
-  
-  background: #FFFFFF;
-  border: 2px solid #5C52FE;
-  box-sizing: border-box;
-  z-index: 2;
-}
-
-input [id = "menuicon"]+label span:nth-child(1){
-  top:0;
-}
-input [id = "menuicon"]+label span:nth-child(2){
-  bottom:0;
-}
 /*------------------------------------------------------------*/
 .Tap-bar-back{
   position: absolute;
@@ -73,10 +22,10 @@ background: #3F3D56;
   z-index: 2;
  
 }
-.Tap-bar-name{
+.btn{
   position: absolute;
-width: 83px;
-height: 23px;
+width: 100x;
+height: 0px;
 left: 1207px;
 top: 1044px;
 
@@ -87,7 +36,7 @@ font-size: 18px;
 line-height: 23px;
 /* identical to box height */
 
-
+background-color: #3F3D56;
 color: #C0C0C0;
 
 z-index: 3;
@@ -275,12 +224,12 @@ background: url(qwewqe.png);
   height: 0px;
   left: 1008px;
   top: 55px;
-
+z-index: 2;
   border: 1px solid #3F3D56;
 }
 
 
-.Line-3 {
+.Line-2 {
 
 
   position: absolute;
@@ -292,7 +241,7 @@ background: url(qwewqe.png);
   border: 1px solid #3F3D56;
 }
 
-.Line-4 {
+.Line-3 {
   position: absolute;
   width: 170px;
   height: 0px;
@@ -302,7 +251,7 @@ background: url(qwewqe.png);
   border: 1px solid #FFFFFF;
 }
 
-.Line-6 {
+.Line-4 {
   position: absolute;
   width: 170px;
   height: 0px;
@@ -312,7 +261,7 @@ background: url(qwewqe.png);
   border: 1px solid #FFFFFF;
 }
 
-.Line-7 {
+.Line-5 {
   position: absolute;
   width: 170px;
   height: 0px;
@@ -320,6 +269,17 @@ background: url(qwewqe.png);
   top: 444.75px;
 
   border: 1px solid #FFFFFF;
+  z-index: 2;
+}
+
+.Line-6 {
+  position: absolute;
+width: 170px;
+height: 0px;
+left: 1015px;
+top: 608.75px;
+
+border: 1px solid #FFFFFF;
   z-index: 2;
 }
 
@@ -331,6 +291,18 @@ background: url(qwewqe.png);
   top: 769.75px;
 
   border: 1px solid #C9C9C9;
+
+  z-index: 2;
+}
+
+.End-Line2 {
+  position: absolute;
+width: 170px;
+height: 0px;
+left: 1012px;
+top: 930.75px;
+
+border: 1px solid #C9C9C9;
 
   z-index: 2;
 }
