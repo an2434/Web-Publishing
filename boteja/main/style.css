@@ -11,72 +11,75 @@
 
 
 /*------------------------------------------------------------*/
-.Tap-bar-back{
+.Tap-bar-back {
   position: absolute;
-width: 570px;
-height: 56px;
-left: 960px;
-top: 1028px;
-border-radius: 40px 40px 0 0;
-background: #3F3D56;
+  width: 570px;
+  height: 56px;
+  left: 960px;
+  top: 1028px;
+  border-radius: 40px 40px 0 0;
+  background: #3F3D56;
   z-index: 2;
- 
+
 }
-.btn{
+
+.Tap-bar-name1 {
   position: absolute;
-width: 100x;
-height: 0px;
-left: 1207px;
-top: 1044px;
+  width: 100x;
+  height: 0px;
+  left: 1207px;
+  top: 1044px;
 
-font-family: Spoqa Han Sans Neo;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 23px;
-/* identical to box height */
+  font-family: Spoqa Han Sans Neo;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
 
-background-color: #3F3D56;
-color: #C0C0C0;
+  background-color: #3F3D56;
+  color: #C0C0C0;
 
-z-index: 3;
+  z-index: 3;
 }
 
-.Tap-bar-name2{
-position: absolute;
-width: 50px;
-height: 23px;
-left: 1418px;
-top: 1044px;
+.Tap-bar-name2 {
+  position: absolute;
+  width: 50px;
+  height: 23px;
+  left: 1418px;
+  top: 1044px;
 
-font-family: Spoqa Han Sans Neo;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 23px;
-/* identical to box height */
+  font-family: Spoqa Han Sans Neo;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
 
 
-color: #C0C0C0;
-z-index: 3;
+  color: #C0C0C0;
+  z-index: 3;
 }
-.Tap-bar-name3{
-position: absolute;
-width: 83px;
-height: 23px;
-left: 1021px;
-top: 1044px;
 
-font-family: Spoqa Han Sans Neo;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 23px;
-/* identical to box height */
+.Tap-bar-name3 {
+  position: absolute;
+  width: 83px;
+  height: 23px;
+  left: 1021px;
+  top: 1044px;
 
-z-index: 3;
-color: #C0C0C0;
- }
+  font-family: Spoqa Han Sans Neo;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
+
+  z-index: 3;
+  color: #C0C0C0;
+}
+
 .Filter {
 
   position: absolute;
@@ -160,7 +163,7 @@ Img.Group-45 {
   height: 156px;
   left: 146px;
   top: 924px;
-  
+
   background: url('undraw_Gardening_eaf3 (1).png');
   transform: matrix(-1, 0, 0, 1, 0, 0);
   /*왼쪽 식물 이미지*/
@@ -173,48 +176,48 @@ Img.Group-45 {
   height: 137px;
   left: 785px;
   top: 943px;
-  
+
   background: url("undraw_Gardening_eaf3 (1).png:");
 }
-.Undraw_Gardening_eaf3-1-3
-{
-  position: absolute;
-width: 412px;
-height: 275px;
-left: 1530px;
-top: 804px;
 
-background: url("undraw_mobile_user_7oqo.png");
+.Undraw_Gardening_eaf3-1-3 {
+  position: absolute;
+  width: 412px;
+  height: 275px;
+  left: 1530px;
+  top: 804px;
+
+  background: url("undraw_mobile_user_7oqo.png");
 }
 
 
 .Undraw_Gardening_eaf3-1-4 {
-/* qwewqe 2 */
+  /* qwewqe 2 */
 
-position: absolute;
-width: 100px;
-height: 103px;
-left: 960px;
-top: 980px;
+  position: absolute;
+  width: 100px;
+  height: 103px;
+  left: 960px;
+  top: 980px;
 
-background: url(qwewqe.png);
-transform: matrix(-1, 0, 0, 1, 0, 0);
-z-index: 3;
+  background: url(qwewqe.png);
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  z-index: 3;
 
-/*선*/
+  /*선*/
 }
 
 .Undraw_Gardening_eaf3-1-5 {
-/* qwewqe 1 */
+  /* qwewqe 1 */
 
 
-position: absolute;
-width: 87px;
-height: 105px;
-left: 1443px;
-top: 975px;
+  position: absolute;
+  width: 87px;
+  height: 105px;
+  left: 1443px;
+  top: 975px;
 
-background: url(qwewqe.png);
+  background: url(qwewqe.png);
 }
 
 
@@ -224,7 +227,7 @@ background: url(qwewqe.png);
   height: 0px;
   left: 1008px;
   top: 55px;
-z-index: 2;
+  z-index: 2;
   border: 1px solid #3F3D56;
 }
 
@@ -274,12 +277,12 @@ z-index: 2;
 
 .Line-6 {
   position: absolute;
-width: 170px;
-height: 0px;
-left: 1015px;
-top: 608.75px;
+  width: 170px;
+  height: 0px;
+  left: 1015px;
+  top: 608.75px;
 
-border: 1px solid #FFFFFF;
+  border: 1px solid #FFFFFF;
   z-index: 2;
 }
 
@@ -297,12 +300,12 @@ border: 1px solid #FFFFFF;
 
 .End-Line2 {
   position: absolute;
-width: 170px;
-height: 0px;
-left: 1012px;
-top: 930.75px;
+  width: 170px;
+  height: 0px;
+  left: 1012px;
+  top: 930.75px;
 
-border: 1px solid #C9C9C9;
+  border: 1px solid #C9C9C9;
 
   z-index: 2;
 }
@@ -767,20 +770,20 @@ border: 1px solid #C9C9C9;
 
 .End-Voting-Title2 {
   position: absolute;
-width: 148px;
-height: 23px;
-left: 1021px;
-top: 903px;
+  width: 148px;
+  height: 23px;
+  left: 1021px;
+  top: 903px;
 
-font-family: Spoqa Han Sans Neo;
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 23px;
-/* identical to box height */
+  font-family: Spoqa Han Sans Neo;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
 
 
-color: #C9C9C9;
+  color: #C9C9C9;
 
 
   color: #C9C9C9;
@@ -792,15 +795,15 @@ color: #C9C9C9;
   height: 54px;
   left: 1016px;
   top: 937px;
-  
+
   font-family: Spoqa Han Sans Neo;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 18px;
-  
+
   color: rgba(222, 222, 222, 0.7);
-  
+
 }
 
 .End-Rectangle2 {
@@ -810,7 +813,7 @@ color: #C9C9C9;
   height: 23px;
   left: 1023px;
   top: 991px;
-  
+
   background: rgba(203, 202, 202, 0.84);
   border-radius: 2222px;
 }
@@ -821,15 +824,15 @@ color: #C9C9C9;
   height: 15px;
   left: 1039px;
   top: 995px;
-  
+
   font-family: Spoqa Han Sans Neo;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
   line-height: 15px;
   /* identical to box height */
-  
-  
+
+
   color: rgba(0, 0, 0, 0.7);
-  
+
 }
