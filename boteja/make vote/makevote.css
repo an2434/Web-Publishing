@@ -1,10 +1,14 @@
+
+
+@charset "utf-8";
+
 .back{
     position: absolute;
     width: 570px;
     height: 1132px;
     left: 960px;
     top: -52px;
-    
+    z-index: 1;
     background: #FFFFFF;
     box-shadow: 15px 0px 15px rgba(142, 142, 142, 0.23), -15px 0px 15px rgba(142, 142, 142, 0.23);
 }
