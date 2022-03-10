@@ -73,7 +73,7 @@ border: 1px solid #3F3D56;
     left: 960px;
     top: -52px;
 
-    background: #FFFFFF;
+    background: #FCFCFC;
     box-shadow: 15px 0px 15px rgba(142, 142, 142, 0.23), -15px 0px 15px rgba(142, 142, 142, 0.23);
 }
 
@@ -147,6 +147,7 @@ border: 1px solid #3F3D56;
     z-index: 3;
     color: #C0C0C0;
 }
+/*textbox1*/
 .text_back1{
     position: absolute;
 width: 455px;
@@ -154,9 +155,52 @@ height: 36px;
 left: 1018px;
 top: 129px;
 
-background: #837BFF;;
+background: #39393d;
 border-radius: 5px;
+
 }
+
+.text_1{
+    position: absolute;
+width: 432px;
+height: 20px;
+left: 1033px;
+top: 136px;
+
+font-family: 'Spoqa Han Sans Neo';
+font-style: normal ;
+font-weight: 310;
+font-size: 16px;
+line-height: 20px;
+
+
+
+color: rgba(255, 255, 255, 0.45);
+
+}
+.textbox_title1{
+    
+position: absolute;
+width: 67px;
+height: 23px;
+left: 1028px;
+top: 99px;
+
+font-family: 'Spoqa Han Sans Neo';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #6861E0;
+
+}
+/*-------------------------------------------------------*/
+
+/*textbox2*/
+
 .text_back2{
 position: absolute;
 width: 455px;
@@ -164,9 +208,11 @@ height: 221px;
 left: 1018px;
 top: 216px;
 
-background: #837BFF;
+background: #2A2A2D;
 border-radius: 5px;
 }
+
+/*-----------------------------------------------------------*/
 .text_back3{
 position: absolute;
 width: 455px;
@@ -174,7 +220,7 @@ height: 45px;
 left: 1018px;
 top: 490px;
 
-background: #837BFF;
+background: #2A2A2D;
 border-radius: 5px;
 }
 
@@ -185,7 +231,7 @@ height: 45px;
 left: 1018px;
 top: 555px;
 
-background: #837BFF;
+background: #2A2A2D;
 border-radius: 5px;
 }
 
@@ -196,7 +242,7 @@ height: 45px;
 left: 1019.07px;
 top: 620px;
 
-background: #837BFF;
+background: #2A2A2D;
 border-radius: 5px;
 }
 
@@ -207,6 +253,6 @@ height: 45px;
 left: 1019.07px;
 top: 685px;
 
-background: #837BFF;
+background: #2A2A2D;
 border-radius: 5px;
 }
