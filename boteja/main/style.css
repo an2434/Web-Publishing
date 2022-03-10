@@ -9,7 +9,11 @@
 }
 */
 
-
+.all 
+{
+  position: absolute;
+  left: 400px;
+}
 /*------------------------------------------------------------*/
 .Tap-bar-back {
   position: absolute;
@@ -26,7 +30,7 @@
 .Tap-bar-name1 {
   position: absolute;
   width: 100x;
-  height: 0px;
+  height: 50px;
   left: 1207px;
   top: 1044px;
 
@@ -157,16 +161,14 @@ Img.Group-45 {
 }
 
 .Undraw_Gardening_eaf3-1-1 {
-
   position: absolute;
   width: 146px;
   height: 156px;
-  left: 146px;
-  top: 924px;
-
-  background: url('undraw_Gardening_eaf3 (1).png');
-  transform: matrix(-1, 0, 0, 1, 0, 0);
-  /*왼쪽 식물 이미지*/
+  left: 0px;
+  top: 929px;
+  
+  background: url(undraw_Gardening_eaf3 (1).png);
+  
 
 }
 
@@ -175,49 +177,46 @@ Img.Group-45 {
   width: 175px;
   height: 137px;
   left: 785px;
-  top: 943px;
+  top: 948px;
 
-  background: url("undraw_Gardening_eaf3 (1).png:");
+  
 }
 
 .Undraw_Gardening_eaf3-1-3 {
-  position: absolute;
-  width: 412px;
-  height: 275px;
-  left: 1530px;
-  top: 804px;
 
-  background: url("undraw_mobile_user_7oqo.png");
+  position: absolute;
+  width: 100px;
+  height: 102px;
+  left: 1060px;
+  top: 977px;
+  
+  background: url(qwewqe.png);
+  transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 
 
 .Undraw_Gardening_eaf3-1-4 {
-  /* qwewqe 2 */
+ 
+  
+position: absolute;
+width: 87px;
+height: 104px;
+left: 1443px;
+top: 975px;
 
-  position: absolute;
-  width: 100px;
-  height: 103px;
-  left: 960px;
-  top: 980px;
-
-  background: url(qwewqe.png);
-  transform: matrix(-1, 0, 0, 1, 0, 0);
-  z-index: 3;
-
-  /*선*/
+background: url(qwewqe.png);
+ 
 }
 
 .Undraw_Gardening_eaf3-1-5 {
-  /* qwewqe 1 */
-
-
   position: absolute;
-  width: 87px;
-  height: 105px;
-  left: 1443px;
-  top: 975px;
-
-  background: url(qwewqe.png);
+  width: 440px;
+  height: 325px;
+  left: 1700px;
+  top: 760px;
+  
+  background: url(undraw_mobile_user_7oqo.png);
+ 
 }
 
 
