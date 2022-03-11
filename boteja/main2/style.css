@@ -2,8 +2,8 @@
     position: absolute;
 width: 23%;
 height: 100%;
-left: 1600px;
-top: 0px;
+left: 60%;
+top: 0%;
 
 background: #FCFCFC;
 box-shadow: 15px 0px 15px rgba(142, 142, 142, 0.23), -15px 0px 15px rgba(142, 142, 142, 0.23);
@@ -12,15 +12,16 @@ box-shadow: 15px 0px 15px rgba(142, 142, 142, 0.23), -15px 0px 15px rgba(142, 14
     position: absolute;
     width: 80%;
     height: 11%;
-    left: 0px;
-    top: 86px;
-    
+    left: 10%;
+    top: 11%;
+    margin: 0 auto;
     background: #6C63FF;
-    border-radius: 20px;
+    border-radius: 5%;
 }
 .all-vote-box
 {
-    width: 100%; 
+    
+    width: 50%; 
      margin: 0 auto;
 
    
