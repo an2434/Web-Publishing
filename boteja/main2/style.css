@@ -1,0 +1,27 @@
+.vote-box-back{
+    position: absolute;
+width: 23%;
+height: 100%;
+left: 1600px;
+top: 0px;
+
+background: #FCFCFC;
+box-shadow: 15px 0px 15px rgba(142, 142, 142, 0.23), -15px 0px 15px rgba(142, 142, 142, 0.23);
+}
+.vote-box1{
+    position: absolute;
+    width: 80%;
+    height: 11%;
+    left: 0px;
+    top: 86px;
+    
+    background: #6C63FF;
+    border-radius: 20px;
+}
+.all-vote-box
+{
+    width: 100%; 
+     margin: 0 auto;
+
+   
+}
