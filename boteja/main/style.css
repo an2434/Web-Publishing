@@ -9,10 +9,10 @@
 }
 */
 
-.all 
-{
+
+.all {
   position: absolute;
-  left: 400px;
+  height: 100%;
 }
 /*------------------------------------------------------------*/
 .Tap-bar-back {
@@ -167,7 +167,7 @@ Img.Group-45 {
   left: 0px;
   top: 929px;
   
-  background: url(undraw_Gardening_eaf3 (1).png);
+ 
   
 
 }
